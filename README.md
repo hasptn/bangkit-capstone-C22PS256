@@ -1,5 +1,9 @@
 <p align="center">
-![Logo App](https://user-images.githubusercontent.com/95858431/171346154-6de3a106-c492-4c2a-91d5-2404632f1b76.png)
+  <img 
+    width="500"
+    height="500"
+    src="https://user-images.githubusercontent.com/95858431/171346154-6de3a106-c492-4c2a-91d5-2404632f1b76.png"
+  >
 </p>
 
 # Bangkit 2022 Product-Based Capstone Team : C22PS256
