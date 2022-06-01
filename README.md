@@ -1,4 +1,4 @@
-![Logo App](https://user-images.githubusercontent.com/95858431/171345600-4a2a279f-f34d-4fe6-b47a-247f7a07ab68.png)
+![Logo App](https://user-images.githubusercontent.com/95858431/171346154-6de3a106-c492-4c2a-91d5-2404632f1b76.png)
 
 # Bangkit 2022 Product-Based Capstone Team : C22PS256
 Hi, this is our repository to track, develop, and maintain our project.
