@@ -1,4 +1,4 @@
-![alt text](https://i.postimg.cc/bwpR61hK/Logo-Kuy-Njajan.png)
+![Logo KuyNjajan](https://user-images.githubusercontent.com/95858431/171345013-f3fe5ca9-7039-401a-8c29-a345ebaeeccf.png)
 
 # Bangkit 2022 Product-Based Capstone Team : C22PS256
 Hi, this is our repository to track, develop, and maintain our project.
