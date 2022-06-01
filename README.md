@@ -1,6 +1,6 @@
 # Bangkit 2022 Product-Based Capstone Team : C22PS256
 Hi, this is our repository to track, develop, and maintain our project.
-Our team consist of 2 people from each Bangkit Path which is consist of  Mobile Development, Machine Learning, and Cloud Computing.
+Our team consist of 2 people from each Bangkit Path which is consist of Machine Learning, Mobile Development, and Cloud Computing.
 
 ### Our Team Member
 | Nama                   | Bangkit ID  | Learning Path      |
