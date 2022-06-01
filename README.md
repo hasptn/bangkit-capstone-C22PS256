@@ -11,7 +11,7 @@ Hi, this is our repository to track, develop, and maintain our project.
 Our team consist of 2 people from each Bangkit Path which is consist of Machine Learning, Mobile Development, and Cloud Computing.
 
 ### Our Team Member
-| Nama                   | Bangkit ID  | Learning Path      |
+| Name                   | Bangkit ID  | Learning Path      |
 | ---------------------- | ----------- | ------------------ |
 | Asri Samrotul Hilmiah  | M2313G2721  | Machine Learning   |
 | Dede Patmah            | M2152G1659  | Machine Learning   |
