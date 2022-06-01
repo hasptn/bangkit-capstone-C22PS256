@@ -16,7 +16,7 @@ Our team consist of 2 people from each Bangkit Path which is consist of  Mobile 
 We are creating an application called ‘Kuy Njajan’, the app to show the world the enrichment of Indonesian traditional culinary.
 
 The features available on the ‘Kuy Njajan’ App:
-● Provide 3 actors: UMKM, User, and Couriers.
-● Indonesian traditional food search engine.
-● List of Indonesia traditional food by category and type.
-● Tracking the nearest traditional food UMKM.
+ Markup : * Provide 3 actors: UMKM, User, and Couriers.
+          * Indonesian traditional food search engine.
+          * List of Indonesia traditional food by category and type.
+          * Tracking the nearest traditional food UMKM.
