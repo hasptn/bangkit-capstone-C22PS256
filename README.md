@@ -30,4 +30,4 @@ We are creating an application called ‘Kuy Njajan’, the app to show the worl
 * Tracking the nearest traditional food UMKM.
 
 ### Resourses
-* Figma (https://www.figma.com/file/kgiccchVm5aGZ2yFMj59Sm/Desain-Kuy-Njajan?node-id=0%3A1)
+* Figma (https://www.figma.com/file/ckBvMZBTHzWXYa1Y2KYzBo/Capstone-Project---Bangkit?node-id=0%3A1)
